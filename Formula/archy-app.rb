@@ -2,9 +2,9 @@ class ArchyApp < Formula
   desc ''
   homepage 'https://dl.equinox.io/archyplatform/archy-app'
 
-  url 'https://bin.equinox.io/a/5FY8MTX4ntu/archy-app-0.1.2-darwin-amd64.tar.gz'
-  sha256 'd53111621786d6c0601f663d1e3589a7a01f6df457157edb8470f02241de4242'
-  version '0.1.2'
+  url 'https://bin.equinox.io/a/esfTTgPqLXv/archy-app-0.1.3-darwin-amd64.tar.gz'
+  sha256 '7ecdb7cc132a0662ccbdb58ddfd03017170d02b7b7e849fa58c7205e1b7ee6d8'
+  version '0.1.3'
 
   def install
     bin.install 'archy-app'
