@@ -2,9 +2,9 @@ class Archy < Formula
   desc ''
   homepage 'https://dl.equinox.io/archyplatform/archy'
 
-  url 'https://bin.equinox.io/a/mmKDGSgZJWM/archy-0.1.7-darwin-amd64.tar.gz'
-  sha256 'bf2350b6d6004d1e9498d111fb164c166fcaaf2e624cbfd2a798bd33a6d7ce37'
-  version '0.1.7'
+  url 'https://bin.equinox.io/a/8uJNwG1rBpk/archy-0.1.8-darwin-amd64.tar.gz'
+  sha256 'bc11163a14fac174a227e429d9fca494425b715f07b9f95038166427808b239a'
+  version '0.1.8'
 
   def install
     bin.install 'archy'
